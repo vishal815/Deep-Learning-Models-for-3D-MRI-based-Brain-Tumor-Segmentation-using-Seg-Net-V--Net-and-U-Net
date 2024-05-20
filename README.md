@@ -1,8 +1,7 @@
 # Novel Architecture and Comparative Study for Deep Learning-Based Segmentation of 3D Brain MRI Images using SegNet, V-Net, and U-Net
 
-<p align="center">
-https://github.com/vishal815/Deep-Learning-Models-for-3D-MRI-based-Brain-Tumor-Segmentation-using-Seg-Net-V--Net-and-U-Net/assets/83393190/cc8f7b21-a600-44a9-b4c0-b5160b25dfa4
-</p>
+https://github.com/vishal815/Deep-Learning-Models-for-3D-MRI-based-Brain-Tumor-Segmentation-using-Seg-Net-V--Net-and-U-Net/assets/83393190/5ba72072-2451-41f3-b08f-dd890bf02ca6
+
 
 ## Abstract
 Brain tumor detection is an essential undertaking in the fields of neuroimaging and medical image analysis. It detects the abnormal growth of tissues within MRI scans. In the past, manual detection was performed, which was less effective and time-consuming. Then the transition shifted to 2D images, which enhanced the accuracy and efficiency of brain tumor detection compared to manual methods. The integration of artificial intelligence with brain tumor detection processes has completely transformed the field. Modern hardware, like GPUs and deep learning algorithms, particularly CNN, have enabled the use of large datasets for training, reducing processing time and improving scalability.
