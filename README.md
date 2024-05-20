@@ -1,0 +1,2 @@
+# Deep-Learning-Models-for-3D-MRI-based-Brain-Tumor-Segmentation-using-Seg-Net-V--Net-and-U-Net
+This project focuses on the segmentation of brain tumors in 3D MRI images using Convolutional Neural Network (CNN) models. The research compares the performance of SegNet, V-Net, and U-Net architectures for brain tumor segmentation and evaluates them based on complexity, training time, and segmentation accuracy.
