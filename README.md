@@ -1,7 +1,7 @@
 # Novel Architecture and Comparative Study for Deep Learning-Based Segmentation of 3D Brain MRI Images using SegNet, V-Net, and U-Net
 
 <p align="center">
-  <img src="https://github.com/vishal815/Deep-Learning-Models-for-3D-MRI-based-Brain-Tumor-Segmentation-using-Seg-Net-V--Net-and-U-Net/assets/83393190/4270a082-6877-4947-b179-ede9925c78fa" alt="Project Overview">
+https://github.com/vishal815/Deep-Learning-Models-for-3D-MRI-based-Brain-Tumor-Segmentation-using-Seg-Net-V--Net-and-U-Net/assets/83393190/cc8f7b21-a600-44a9-b4c0-b5160b25dfa4
 </p>
 
 ## Abstract
